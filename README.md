@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GrumZz
+- 👀 I’m interested in becoming a programmer.
+- 🌱 I’m currently learning HTML/CSS, JavaScript.
